@@ -1,0 +1,2 @@
+# chess
+This was designed to solve a module in Keep Talking and Nobody Explodes called "Chess." Given a 6x6 chess board and coordinates of 6 chess pieces, determine what pieces each coordinate is and input the type of piece and the associated coordinate. This program will render the chessboard and draw the rays of threatened squares from each piece. If you've input the proper pieces in the correct locations, there should be one square that is not threatened.
