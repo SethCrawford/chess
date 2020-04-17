@@ -1,0 +1,22 @@
+Example chess coordinates for chess.
+
+The first is solved, using the Chess Manual PDF, feel free to try to determine the 
+pieces that correspond to each coordinate for the other set yourself.
+
+(Last digit of the serial number is even)
+bishop d 4
+knight a 1
+king f 4
+rook a 3
+rook e 1
+queen c 5
+
+
+
+(Last digit of the serial number is even)
+f 1
+a 4
+f 4
+c 5
+d 3
+e 6
